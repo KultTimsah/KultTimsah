@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KultTimsah
+- 👀 I’m interested in Web3 languages like Solidity.
